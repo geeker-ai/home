@@ -19,12 +19,11 @@ project types:
     - Personal
 
 techstack:
-    - Hugo
-    - HTML/CSS
-    - JavaScript
-    - Netlify
-# live_url: https://hugo-liftoff.netlify.app
-# source_url: https://github.com/wjh18/hugo-liftoff
+    - Flutter
+    - Dart
+    - Python
+live_url: https://github.com/geeker-ai/geek_chat
+source_url: https://github.com/geeker-ai/geek_chat
 ---
 
 您设备上一个有用的AI副驾驶。
@@ -43,10 +42,10 @@ Geek Chat是一个跨平台的AI客户端，支持MacOS、Windows、iPhone、iPa
 <table>
   <tr>
     <td>
-      <img src='./assets/screenshots/screenshot1.png' />
+      <img src='https://github.com/geeker-ai/geek_chat/raw/main/assets/screenshots/screenshot1.png' style="width: 327px; height: 317px" />
     </td>
     <td>
-      <img src='./assets/screenshots/screenshot2.png' />
+      <img src='https://github.com/geeker-ai/geek_chat/raw/main/assets/screenshots/screenshot2.png' style="width: 327px; height: 317px" />
     </td>
   </tr>
 </table>
@@ -56,16 +55,16 @@ Geek Chat是一个跨平台的AI客户端，支持MacOS、Windows、iPhone、iPa
 <table>
   <tr style="height: 40px">
     <td>
-      <img src='./assets/screenshots/screenshot3.jpeg' />
+      <img src='https://github.com/geeker-ai/geek_chat/raw/main/assets/screenshots/screenshot3.jpeg' style="height:325; width: 150px" />
     </td>
     <td>
-      <img src='./assets/screenshots/screenshot4.jpeg' />
+      <img src='https://github.com/geeker-ai/geek_chat/raw/main/assets/screenshots/screenshot4.jpeg' style="height:325; width: 150px" />
     </td>
     <td>
-      <img src='./assets/screenshots/screenshot5.jpeg' />
+      <img src='https://github.com/geeker-ai/geek_chat/raw/main/assets/screenshots/screenshot5.jpeg' style="height:325; width: 150px" />
     </td>
     <td>
-      <img src='./assets/screenshots/screenshot6.jpeg' />
+      <img src='https://github.com/geeker-ai/geek_chat/raw/main/assets/screenshots/screenshot6.jpeg' style="height:325; width: 150px" />
     </td>
   </tr>
 </table>
@@ -81,19 +80,19 @@ Geek Chat是一个跨平台的AI客户端，支持MacOS、Windows、iPhone、iPa
   <tr style="text-align: center">
     <td>
       <a href='https://github.com/geeker-ai/geek_chat/releases'>
-        <img src='./assets/android-color.svg' style="height:14px; width: 14px" />
+        <img src='https://github.com/geeker-ai/geek_chat/raw/main/assets/android-color.svg' style="height:14px; width: 14px" />
         <b>APK</b>
       </a>
     </td>
     <td>
       <a href='https://github.com/geeker-ai/geek_chat/releases'>
-        <img src='./assets/apple-color.svg' style="height:15px; width: 15px" />
+        <img src='https://github.com/geeker-ai/geek_chat/raw/main/assets/apple-color.svg' style="height:15px; width: 15px" />
         <b>DMG</b>
       </a>
     </td>
     <td>
       <a href='https://github.com/geeker-ai/geek_chat/releases'>
-        <img src='./assets/windows10-color.svg' style="height:14px; width: 14px" />
+        <img src='https://github.com/geeker-ai/geek_chat/raw/main/assets/windows10-color.svg' style="height:14px; width: 14px" />
         <b>Windows</b>
       </a>
     </td>
